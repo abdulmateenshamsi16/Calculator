@@ -1,0 +1,29 @@
+.input{ 
+    margin-left: 50px ; 
+    width: 400px;
+}
+.calbody{ 
+ 
+   
+    text-align: center;
+    width:500px ; 
+    padding-top: 50px ;
+}
+
+.calbody button{ 
+    width: 100px; 
+    margin:10px ; 
+    border-radius: 200px ;
+    
+}
+#main{ 
+    margin:auto;
+    width:490px;
+    justify-content: center;
+    height :250px ;
+    background-color: antiquewhite;
+}
+.row1{ 
+    padding-top: 50px;
+}
+
